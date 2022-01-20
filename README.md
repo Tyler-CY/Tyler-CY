@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**TylerCYan/TylerCYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year Computer Science/Data Science student.
 
-Here are some ideas to get you started:
+### Software Design Experience
+- Led group projects and incorporated OOP concepts, SOLID principles, Design Patterns when applicable to improve reusability and optimization of code
+- Made a few video games using C# and Unity Game Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proficient Programming Languages (right now)
+- Java
+- MATLAB
+- Python
+
+### Hobbies
+PC Gaming: simracing, FPS shooter, puzzles
