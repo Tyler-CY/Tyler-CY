@@ -13,4 +13,4 @@ I am a second-year Computer Science/Data Science student.
 - Python
 
 ### Hobbies
-PC Gaming: simracing, puzzles
+Creating tools using software design and programming to increase productivity
